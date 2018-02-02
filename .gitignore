@@ -2,6 +2,8 @@
 
 composer.lock
 
+*.log
+
 # IDE Files
 #-------------------------
 /nbproject/
