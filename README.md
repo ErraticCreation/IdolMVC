@@ -1,7 +1,7 @@
 
 # What is IdolMVC
 **IdolMVC** is a custom PHP Framework project that I am creating in order to better understand the internal workings of the MVC software architectural design pattern.
-###### Current Version: 0.3
+###### Current Version: 0.7
 ### Release Information
 It is my intention to keep building onto this project once I have the initial skeleton built out. The version number will hit 1.0 once it has reached a state where a basic web app may be built using it, complete with database interactions, functioning Models, Controllers and Dynamic Views. 
 ### Server Requirements
